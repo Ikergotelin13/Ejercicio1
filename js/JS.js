@@ -1,0 +1,1 @@
+window.alert("Este fondo es de color naranja");
